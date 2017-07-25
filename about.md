@@ -8,4 +8,4 @@ My day job is working at Ford as a Sytems Engineer on their Autonomous Vehicle P
 
 ### Contact me
 
-Feel Free to message me on LinkedIn [https://www.linkedin.com/in/kenyesh](https://www.linkedin.com/in/kenyesh)
+Feel free to message me on LinkedIn [https://www.linkedin.com/in/kenyesh](https://www.linkedin.com/in/kenyesh)
