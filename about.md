@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My day job is working at Ford as a Sytems Engineer on their Autnmouse Vehicle Program. This site is to document my side projects I work on so other people may replicate, learn or expand upon them.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Feel Free to message me on LinkedIn [https://www.linkedin.com/in/kenyesh](https://www.linkedin.com/in/kenyesh)
