@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mower Monday 2: Making the Circuit Diagram  
+title: Mower Monday 2 Making the Circuit Diagram  
 ---
 
 Where's Mower Monday 1? Well, that was last week but setting up Jekylle was my post for that.
